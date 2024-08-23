@@ -20,3 +20,16 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/user-attachments/assets/9c9c2fb1-9545-47c8-9832-8544bcf3678d" alt="css3" width="55" height="52"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/user-attachments/assets/4a3aedc9-542e-4fb8-a87d-63749da1aeb5" alt="javascript" width="70" height="55"/> </a>
 </div>
+
+<h3 align="center">My Repositories:</h3>
+
+<div>
+  <p>
+    <a href="https://github.com/volidesus/badAppleCLI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=volidesus&repo=badAppleCLI" alt="Bad Apple CLI Stats" />
+    </a>
+    <a href="https://github.com/volidesus/volidesus.github.io">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=volidesus&repo=volidesus.github.io" alt="Voldesus Stats" />
+    </a>
+  </p>
+</div>
