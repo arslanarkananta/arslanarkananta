@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently a student in **Indonesia**
 - 🌱 I’m currently learning **C++ and Javascript**
-- 👨‍💻 All of my projects are available at here in GitHub 😄
+- 👨‍💻 All of my projects are available here in GitHub 😄
 - 📫 How to reach me: You can write me on [mail](mailto:arkananta.arslan@gmail.com)
 
 <h3 align="center">Languages and Tools:</h3>
