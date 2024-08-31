@@ -19,4 +19,6 @@
   <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/user-attachments/assets/f43e8c82-3413-44d7-a625-4bb7350636e3" alt="html5" width="63" height="53"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/user-attachments/assets/9c9c2fb1-9545-47c8-9832-8544bcf3678d" alt="css3" width="55" height="52"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/user-attachments/assets/4a3aedc9-542e-4fb8-a87d-63749da1aeb5" alt="javascript" width="70" height="55"/> </a>
+  <a href="https://www.php.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="php" width="75" height="45"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" alt="python" width="55" height="55"/> </a>
 </div>
