@@ -6,7 +6,7 @@
 </div> <br>
 
 - 🔭 I’m currently a 7th grader in **Indonesia**
-- 🌱 I’m currently learning **C++/C and Javascript**
+- 🌱 I’m currently learning **C++/C, Python, and Javascript**
 - 👨‍💻 All of my projects are available here in GitHub 😄
 - 📫 How to reach me: You can write me on [Gmail](mailto:arkananta.arslan@gmail.com)
 
