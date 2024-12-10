@@ -10,15 +10,23 @@
 - 👨‍💻 All of my projects are available here in GitHub 😄
 - 📫 How to reach me: You can write me on [Gmail](mailto:arkananta.arslan@gmail.com)
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/user-attachments/assets/42f7de75-5404-4f8b-8813-63fd2fe8bc8b" alt="c++" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://github.com/user-attachments/assets/abdf7cee-d801-4279-8e5c-a27473586b97" alt="c" width="45" height="50"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/user-attachments/assets/f43e8c82-3413-44d7-a625-4bb7350636e3" alt="html5" width="63" height="53"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/user-attachments/assets/9c9c2fb1-9545-47c8-9832-8544bcf3678d" alt="css3" width="55" height="52"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/user-attachments/assets/4a3aedc9-542e-4fb8-a87d-63749da1aeb5" alt="javascript" width="70" height="55"/> </a>
-  <a href="https://www.php.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="php" width="75" height="45"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" alt="python" width="55" height="55"/> </a>
-</div>
+### Languages
+
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C-000?&logo=c&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+### Technologies
+
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Github](https://img.shields.io/badge/-Github-000?&logo=github)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=arslanarkananta&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&rank_icon=github" /><!-- wi*quL3fcV -->
+&nbsp;&nbsp;
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanarkananta&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&icon_color=fff&theme=tokyonight" /></a>
