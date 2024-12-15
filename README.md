@@ -8,8 +8,8 @@
 - 🔭 I’m currently a 7th grader in **Indonesia**
 - 🌱 I’m currently learning **C++/C, Python, and Javascript**
 - 👨‍💻 All of my projects are available here in GitHub 😄
+- 👀 Look at my featured projects at <a href="https://arslanarkananta.github.io/">My Portofolio</a>
 - 📫 How to reach me: You can write me on [Gmail](mailto:arkananta.arslan@gmail.com)
-- 👀 Look at my featured project at <a href="arslanarkananta.github.io">My Portofolio</a>
 
 ### Languages
 
