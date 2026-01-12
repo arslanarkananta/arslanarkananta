@@ -30,4 +30,3 @@
 
 <a href="https://arslanarkananta.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=arslanarkananta&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&rank_icon=github" /><!-- wi*quL3fcV -->
 &nbsp;&nbsp;
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanarkananta&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&icon_color=fff&theme=tokyonight" /></a>
