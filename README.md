@@ -5,11 +5,11 @@
   <a href="https://u8views.com/github/volidesus"><img src="https://u8views.com/api/v1/github/profiles/156522750/views/day-week-month-total-count.svg"></a>
 </div> <br>
 
-- 🔭 I’m currently a 7th grader in **Indonesia**
-- 🌱 I’m currently learning **C++/C, Python, and Javascript**
-- 👨‍💻 All of my projects are available here in GitHub 😄
-- 👀 Look at my featured projects at <a href="https://arslanarkananta.github.io/">My Portofolio</a>
-- 📫 How to reach me: You can write me on [Gmail](mailto:arkananta.arslan@gmail.com)
+- I’m currently a 8th grader in **Indonesia**
+- I’m currently learning **C++/C**
+- All of my projects are available here in GitHub
+- Look at my featured projects at <a href="https://arslanarkananta.github.io/">My Portofolio</a>
+- How to reach me: You can write me on [Gmail](mailto:arkananta.arslan@gmail.com)
 
 ### Languages
 
